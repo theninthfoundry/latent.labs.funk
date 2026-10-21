@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="t d">
+<title id="t">A City, Reframed</title><desc id="d">Independent visual concept study: a vermilion sun above a graphic, fictional city form.</desc>
+<defs><pattern id="grain" width="9" height="9" patternUnits="userSpaceOnUse"><path d="M1 0v9M5 0v9" stroke="#171916" stroke-opacity=".08" stroke-width=".7"/></pattern><pattern id="hatch" width="13" height="13" patternUnits="userSpaceOnUse"><path d="M0 13 13 0" stroke="#171916" stroke-opacity=".55" stroke-width="1"/></pattern><clipPath id="sun"><circle cx="490" cy="300" r="205"/></clipPath></defs>
+<rect width="800" height="1000" fill="#dcd8cd"/><rect width="800" height="1000" fill="url(#grain)"/>
+<rect x="46" y="48" width="708" height="904" fill="none" stroke="#171916" stroke-width="1.5"/>
+<path d="M50 654 752 390v562H50Z" fill="#ff4a2e"/>
+<circle cx="490" cy="300" r="205" fill="#d5f46a"/>
+<g clip-path="url(#sun)" opacity=".95"><path d="M220 130H760M220 155H760M220 180H760M220 205H760M220 230H760M220 255H760M220 280H760M220 305H760M220 330H760M220 355H760M220 380H760M220 405H760M220 430H760M220 455H760" stroke="#171916" stroke-width="1.1"/></g>
+<path d="M48 565 180 510 180 690 48 740Z" fill="#171916"/><path d="M192 511 300 552 300 730 192 689Z" fill="#e9e5da"/><path d="M316 570 438 525 438 730 316 770Z" fill="#171916"/><path d="M455 510 575 470 575 740 455 780Z" fill="#d5f46a"/><path d="M592 474 750 418 750 740 592 795Z" fill="#e9e5da"/>
+<path d="M80 590 145 565 145 709 80 733ZM218 544l58 21v143l-58-20ZM342 580l70-26v143l-70 26ZM482 532l65-22v174l-65 22ZM624 510l96-34v194l-96 34Z" fill="url(#hatch)"/>
+<path d="M50 812 750 552" fill="none" stroke="#171916" stroke-width="2"/><path d="M50 843 750 583M50 874 750 614M50 905 750 645" fill="none" stroke="#171916" stroke-opacity=".4"/>
+<g fill="#171916" font-family="Arial,Helvetica,sans-serif" font-weight="700"><text x="72" y="118" font-size="17" letter-spacing="4">LATENT LABS / FIELD STUDY</text><text x="72" y="178" font-size="58" letter-spacing="-3">A CITY,</text><text x="72" y="232" font-size="58" letter-spacing="-3">REFRAMED.</text><text x="72" y="884" font-size="17" letter-spacing="3">FIG. 01 / MOTION AS MEMORY</text></g>
+<path d="M694 74h36v36M712 74v18h18" fill="none" stroke="#ff4a2e" stroke-width="3"/><circle cx="111" cy="934" r="8" fill="#d5f46a" stroke="#171916"/><text x="133" y="940" fill="#171916" font-family="monospace" font-size="12" letter-spacing="2">INDEPENDENT CONCEPT STUDY</text>
+</svg>

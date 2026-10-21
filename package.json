@@ -1,0 +1,13 @@
+{
+  "name": "latent-labs-field-studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "An editorial, motion-led site for Latent Labs, a creative and AI systems studio.",
+  "scripts": {
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs dist",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs dist"
+  },
+  "engines": { "node": ">=20" }
+}
